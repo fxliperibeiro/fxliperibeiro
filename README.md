@@ -6,6 +6,7 @@ Seja bem-vindo(a) ao meu perfil
 
 <h2><img src= "https://cdn.discordapp.com/emojis/833140181795995650.gif?v=1" width="30" height="30"> Linguagens e tecnologias:</h2>
 
+![Kotlin](https://img.shields.io/badge/-Kotlin-fff?style=for-the-badge&logo=Kotlin&logoColor=9800ff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=9800ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=for-the-badge&logo=node.js&logoColor=9800ff)
 ![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=9800ff)
