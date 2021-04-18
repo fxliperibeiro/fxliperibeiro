@@ -4,7 +4,7 @@
 Seja bem-vindo(a) ao meu perfil
 <img src ="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="30" height="30"> </h1>
 
-<h2><img src= "https://cdn.discordapp.com/emojis/833140181795995650.gif?v=1" width="30" height="30"> Linguagens e Tecnologias:</h2>
+<h2><img src= "https://cdn.discordapp.com/emojis/833140181795995650.gif?v=1" width="30" height="30"> Linguagens e tecnologias:</h2>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=9800ff)
 ![Node.js](https://img.shields.io/badge/-Node.js-fff?style=for-the-badge&logo=node.js&logoColor=9800ff)
