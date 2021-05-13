@@ -15,4 +15,4 @@ Seja bem-vindo(a) ao meu perfil
 
 ![Status na GitHub](https://github-readme-stats.vercel.app/api?username=imfilipi&show_icons=true&icon_color=9800ff&theme=light&title_color=9800ff&hide_title=true)
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/wakatime?username=imfilipi&&theme=light&hide_title=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imfilipi&show_icons=true&icon_color=9800ff&theme=light&title_color=9800ff&hide_title=true)
