@@ -1,7 +1,5 @@
-
-![i'm filipi](https://github.com/imfilipi/imfilipi/blob/main/i'mfilipi-banner.png?raw=true)
 <h1 align="center"> <img src ="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="24" height="24">
-Seja bem-vindo(a) ao meu perfil
+Bem-vindo(a) ao meu perfil
 <img src ="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="30" height="30"> </h1>
 
 <h2><img src= "https://cdn.discordapp.com/emojis/833140181795995650.gif?v=1" width="30" height="30"> Linguagens e tecnologias:</h2>
