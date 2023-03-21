@@ -1,16 +1,40 @@
 <h1 align="center"> <img src ="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="24" height="24">
-Bem-vindo(a) ao meu perfil
+Welcome to my profile
 <img src ="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="30" height="30"> </h1>
 
-<h2><img src= "https://cdn.discordapp.com/emojis/833140181795995650.gif?v=1" width="30" height="30"> Linguagens e tecnologias:</h2>
+<p align="center">My name is Felipe Ribeiro, I'm from Paranapanema, São Paulo, Brazil and I'm currently working as a full-stack developer.</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-fff?style=for-the-badge&logo=javascript&logoColor=9800ff)
-![CSS](https://img.shields.io/badge/-CSS3-fff?style=for-the-badge&logo=css3&logoColor=9800ff)
-![Node.js](https://img.shields.io/badge/-Node.js-fff?style=for-the-badge&logo=node.js&logoColor=9800ff)
-![HTML5](https://img.shields.io/badge/-HTML5-fff?style=for-the-badge&logo=HTML5&logoColor=9800ff)
+<h2>💻 Languages and technologies:</h2>
 
-<h2> <img src="https://cdn.discordapp.com/emojis/832371660782829580.png?v=1" width="30" heigth="30"> GitHub Estatísticas: </h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=9800ff" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=9800ff" alt="CSS3">
+  <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=9800ff" alt="Node.js">
+  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=9800ff" alt="HTML5">
+</p>
 
-![Status na GitHub](https://github-readme-stats.vercel.app/api?username=imfilipi&show_icons=true&icon_color=9800ff&theme=light&title_color=9800ff&hide_title=true)
+<h2>📂 Projects:</h2>
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=imfilipi&show_icons=true&icon_color=9800ff&theme=light&title_color=9800ff&hide_title=true)
+<p align="center">
+  Daisy Bot: WhatsApp bot that uses the <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a> library
+  <br>
+  <a href="https://wa.me/SEUNUMERODOTELEFONE"><img src="https://img.shields.io/badge/-Access%20Daisy's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Daisy's conversation"></a>
+  <br><br>
+  Kharium: coming soon
+  <br>
+  <a href="https://www.kharium.com"><img src="https://img.shields.io/badge/-Access%20Kharium's%20website-000?style=for-the-badge&logo=google-chrome&logoColor=9800ff" alt="Access Kharium's website"></a>
+</p>
+
+<h2>👥 Social media:</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fxliperibeiro/"><img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=9800ff" alt="LinkedIn"></a>
+  <a href="https://twitter.com/fxliperibeiro"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=9800ff" alt="Twitter"></a>
+  <a href="https://www.instagram.com/fxliperibeiro"><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9800ff" alt="Instagram"></a>
+</p>
+
+<h2>🐙 GitHub Stats: </h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=imfilipi&show_icons=true&icon_color=9800ff&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff" alt="GitHub Stats">
+  <br>
