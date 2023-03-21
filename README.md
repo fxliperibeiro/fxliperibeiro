@@ -19,7 +19,7 @@
 <h2>📂 Projects:</h2>
 
 <p align="center">
-  Daisy Bot: WhatsApp bot that uses the <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a> library
+  <strong>🎴 Daisy<strong>: WhatsApp bot that uses the <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a> library
   <br />
   <a href="https://wa.me/SEUNUMERODOTELEFONE"
     ><img src="https://img.shields.io/badge/-Access%20Daisy's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Daisy's conversation"
