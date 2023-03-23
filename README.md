@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="24" height="24" />
+  <img src="assets/bubbles.gif" width="30" height="30" />
   Welcome to my profile
-  <img src="https://cdn.discordapp.com/emojis/832373526844407869.gif?v=1" width="30" height="30" />
+  <img src="assets/bubbles.gif" width="30" height="30" />
 </h1>
 
 <p align="center">My name is Felipe Ribeiro, I'm from Paranapanema, São Paulo, Brazil and I'm currently working as a full-stack developer.</p>
@@ -47,6 +47,16 @@
 <h2>🐙 GitHub Stats:</h2>
 
 <p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=imfilipi&color=9800ff&style=flat-square"
+    alt="Profile Views"
+  />
+  <br />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfilipi&layout=compact&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
+    alt="Most Used Languages"
+  />
+  <br />
   <img
     src="https://github-readme-stats.vercel.app/api?username=imfilipi&show_icons=true&icon_color=9800ff&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
     alt="GitHub Stats"
