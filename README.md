@@ -21,7 +21,7 @@
 <p align="center">
   <strong>🎴 Daisy</strong>: WhatsApp bot that uses the <a href="https://github.com/pedroslopez/whatsapp-web.js">whatsapp-web.js</a> library
   <br />
-  <a href="https://wa.me/SEUNUMERODOTELEFONE"
+  <a href="https://wa.me/5514998492564?text=/comandos"
     ><img src="https://img.shields.io/badge/-Access%20Daisy's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Daisy's conversation"
   /></a>
   <br /><br />
