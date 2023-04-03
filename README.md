@@ -53,12 +53,12 @@
   />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=imfilipi&layout=compact&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fxliperibeiro&layout=compact&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
     alt="Most Used Languages"
   />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api?username=imfilipi&show_icons=true&icon_color=9800ff&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api?username=fxliperibeiro&show_icons=true&icon_color=9800ff&theme=dark&title_color=9800ff&hide_title=true&bg_color=000000&text_color=ffffff"
     alt="GitHub Stats"
   />
   <br />
