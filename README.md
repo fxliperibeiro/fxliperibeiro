@@ -22,7 +22,7 @@
   <strong>🎴 Reth</strong>: WhatsApp bot that uses the <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a> library
   <br />
   <a href="https://dub.sh/reth"
-    ><img src="https://img.shields.io/badge/-Access=%20Reth's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Reth's conversation"
+    ><img src="https://img.shields.io/badge/-Access%20Reth's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Reth's conversation"
   /></a>
   <br /><br />
   <strong>Kharium</strong>: coming soon
