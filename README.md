@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/fxliperibeiro/"
     ><img src="https://img.shields.io/badge/-Linkedin-000?style=for-the-badge&logo=linkedin&logoColor=9800ff" alt="LinkedIn"
   /></a>
-  <a href="https://twitter.com/fxliperibeiro"><img src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=twitter&logoColor=9800ff" alt="Twitter" /></a>
+  <a href="https://x.com/fxliperibeiro"><img src="https://img.shields.io/badge/-X-000?style=for-the-badge&logo=X&logoColor=9800ff" alt="X" /></a>
   <a href="https://www.instagram.com/fxliperibeiro"
     ><img src="https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=9800ff" alt="Instagram"
   /></a>
