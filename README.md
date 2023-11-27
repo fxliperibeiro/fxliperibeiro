@@ -25,7 +25,7 @@
   <strong>🤖 Reth</strong>: Reth is a bot with several fun and useful commands for WhatsApp.
   <br />
   <a href="https://rethbot.website"
-    ><img src="https://img.shields.io/badge/-Access%20Reth's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Reth website"
+    ><img src="https://img.shields.io/badge/-Access%20Reth's%20website-000?style=for-the-badge&logo=probot&logoColor=9800ff" alt="Access Reth website"
   /></a>
 </p>
 
