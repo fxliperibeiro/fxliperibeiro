@@ -1,34 +1,31 @@
 <h1 align="center">
   <img src="assets/bubbles.gif" width="30" height="30" />
-  Welcome to my profile
+  Welcome to my profile!
   <img src="assets/bubbles.gif" width="30" height="30" />
 </h1>
 
-<p align="center">My name is Felipe Ribeiro, I'm from Paranapanema, São Paulo, Brazil and I'm currently working as a full-stack developer.</p>
+<p align="center">My name is Felipe Ribeiro, I'm from Paranapanema, São Paulo, Brazil and I'm currently working as a back-end developer.</p>
 
 <h2>💻 Languages and technologies:</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-000?style=for-the-badge&logo=HTML5&logoColor=9800ff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-000?style=for-the-badge&logo=css3&logoColor=9800ff" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=javascript&logoColor=9800ff" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=9800ff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=9800ff" alt="Node.js" />
-  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=MongoDB&logoColor=9800ff" alt="MongoDB" />
-</p>
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=9800ff" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=9800ff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=9800ff" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify&logoColor=9800ff" alt="Fastify" />
+ 
+  </p>
 
 <h2>📂 Projects:</h2>
 
 <p align="center">
-  <strong>🎴 Reth</strong>: WhatsApp bot that uses the <a href="https://github.com/WhiskeySockets/Baileys">Baileys</a> library
+  <strong>🤖 Reth</strong>: Reth is a bot with several fun and useful commands for WhatsApp.
   <br />
-  <a href="https://dub.sh/reth"
-    ><img src="https://img.shields.io/badge/-Access%20Reth's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Reth's conversation"
-  /></a>
-  <br /><br />
-  <strong>Kharium</strong>: coming soon
-  <br />
-  <a href="https://www.kharium.com"
-    ><img src="https://img.shields.io/badge/-Access%20Kharium's%20website-000?style=for-the-badge&logo=google-chrome&logoColor=9800ff" alt="Access Kharium's website"
+  <a href="https://rethbot.website"
+    ><img src="https://img.shields.io/badge/-Access%20Reth's%20conversation-000?style=for-the-badge&logo=whatsapp&logoColor=9800ff" alt="Access Reth website"
   /></a>
 </p>
 
