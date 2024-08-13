@@ -13,8 +13,9 @@
   <img src="https://img.shields.io/badge/-TypeScript-000?style=for-the-badge&logo=typescript&logoColor=9800ff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-Node.js-000?style=for-the-badge&logo=node.js&logoColor=9800ff" alt="Node.js" />
   <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=9800ff" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js&logoColor=9800ff" alt="Next.js" />
-  <img src="https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=9800ff" alt="Prisma" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=firebase&logoColor=9800ff" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-MongoDB-000?style=for-the-badge&logo=postegresql&logoColor=9800ff" alt="PostgreSQL" />
+    <img src="https://img.shields.io/badge/-Prisma-000?style=for-the-badge&logo=prisma&logoColor=9800ff" alt="Prisma" />
   <img src="https://img.shields.io/badge/-Fastify-000?style=for-the-badge&logo=fastify&logoColor=9800ff" alt="Fastify" />
  
   </p>
